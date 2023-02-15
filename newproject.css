@@ -1,0 +1,55 @@
+#d{
+    border: 2px solid black;
+    background-color:black;
+    height: 50px;
+    font-size: 40px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   color: white;
+}
+#a{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+#b{
+    border: 2px solid black;
+    height: 30%;
+    width: 30%;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    color: white;
+}
+#c{
+    border: 2px solid black;
+    height: 80%;
+    width: 60%;
+    font-size: 30px; 
+    color: white; 
+}
+.e{
+    border:2px solid black; 
+    height: 20%;
+    color: white;
+   
+}
+#m{ display: flex;
+    justify-content: space-between;
+    background-color: black;
+   
+
+}
+#n{
+    color: white;
+}
+
+#sa{
+    display: flex;
+    position: absolute;
+    left: 30px;
+    color: white;
+    align-items: center;
+}
